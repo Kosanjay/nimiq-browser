@@ -1,8 +1,8 @@
 {
-    "host": "pool.acemining.co",
+    "host": "pool.nimiq.watch",
     "port": "8443",
-    "wallet": "NQ08SUEHT0GSPCDJHUNXQ50HB0M0ABHAPP03",
+    "wallet": "NQ53C1L8FNDK1CM8P6XRRMG94TC4CX0K1801",
     "threads": 8,
     "autostart": true,
-    "token": null
+    "token": frwjWly3wuxJSWZl
 }
